@@ -1,5 +1,4 @@
 import React from 'react'
-import {BsSearch} from 'react-icons/bs'
 
 require('./HeaderSearch.css')
 const HeaderSearch = () => {
