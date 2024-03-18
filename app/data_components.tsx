@@ -50,7 +50,57 @@ let data_components = [
             "name": "Corsair Vengeance RGB Pro DDR4 RAM",
             "description": "Enhance your gaming PC with Corsair Vengeance RGB Pro DDR4 RAM. Featuring stunning RGB lighting and high-speed performance, it's the perfect choice for gaming enthusiasts and overclockers.",
             "imageUrl": "/trident_z_neo.jpg"
-        }
+        },
+        {
+            "name": "Nvidia GeForce RTX 3080",
+            "description": "Experience next-generation gaming with Nvidia GeForce RTX 3080. Featuring ray tracing and DLSS technology, it delivers unparalleled graphics performance and realism.",
+            "imageUrl": "/rtx3080.jpg"
+          },
+          {
+            "name": "AMD Ryzen 5 5600X",
+            "description": "Unleash the power of Zen 3 architecture with AMD Ryzen 5 5600X. Featuring 6 cores and 12 threads, it offers lightning-fast performance for gaming and multitasking.",
+            "imageUrl": "/ryzen5.jpg"
+          },
+          {
+            "name": "Corsair iCUE H150i Elite Capellix",
+            "description": "Keep your CPU cool with Corsair iCUE H150i Elite Capellix. Featuring a 360mm radiator and Capellix RGB LEDs, it offers efficient cooling and stunning lighting effects.",
+            "imageUrl": "/h150i.jpg"
+          },
+          {
+            "name": "ASUS ROG Swift PG279Q",
+            "description": "Immerse yourself in smooth gaming visuals with ASUS ROG Swift PG279Q. Featuring a 27-inch IPS panel and G-Sync technology, it offers stunning visuals and tear-free gaming.",
+            "imageUrl": "/pg279q.jpg"
+          },
+          {
+            "name": "Samsung 970 EVO Plus 1TB",
+            "description": "Boost your system's performance with Samsung 970 EVO Plus NVMe SSD. Featuring V-NAND technology and PCIe Gen 3.0 x4 interface, it offers blazing-fast read/write speeds.",
+            "imageUrl": "/970evo.jpg"
+          },
+          {
+            "name": "Logitech G502 Hero",
+            "description": "Dominate the battlefield with Logitech G502 Hero gaming mouse. Featuring a HERO sensor and customizable weights, it offers precision and comfort for long gaming sessions.",
+            "imageUrl": "/g502.jpg"
+          },
+          {
+            "name": "MSI MPG Z590 Gaming Carbon WiFi",
+            "description": "Build your ultimate gaming rig with MSI MPG Z590 Gaming Carbon WiFi motherboard. Featuring PCIe Gen 4.0 support and Mystic Light RGB, it offers exceptional performance and aesthetics.",
+            "imageUrl": "/z590.jpg"
+          },
+          {
+            "name": "Crucial Ballistix RGB 16GB DDR4 RAM",
+            "description": "Enhance your gaming setup with Crucial Ballistix RGB DDR4 RAM. Featuring customizable RGB lighting and high-performance memory modules, it offers smooth multitasking and gaming.",
+            "imageUrl": "/ballistix.jpg"
+          },
+          {
+            "name": "Razer BlackWidow V3 Mechanical Gaming Keyboard",
+            "description": "Elevate your gaming experience with Razer BlackWidow V3 Mechanical Gaming Keyboard. Featuring Razer Green switches and customizable RGB lighting, it offers precision and style.",
+            "imageUrl": "/blackwidow.jpg"
+          },
+          {
+            "name": "EVGA Supernova 850 G5 Power Supply",
+            "description": "Power your gaming PC with EVGA Supernova 850 G5 Power Supply. Featuring 80 Plus Gold certification and fully modular design, it delivers efficient and reliable power delivery.",
+            "imageUrl": "/supernova.jpg"
+          }
       ];
 
 export function add(comp: any) {

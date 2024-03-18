@@ -18,9 +18,7 @@ export default function Home() {
       <section className="hero">
         <h2>Welcome to our PC Components Store</h2>
         <p>Find the best deals on CPUs, GPUs, motherboards, RAM, and more!</p>
-        <a href="#" className="btn">Shop Now</a>
       </section>
-
       <HeaderSearch></HeaderSearch>
     </main>
   );

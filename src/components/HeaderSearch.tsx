@@ -18,22 +18,6 @@ const HeaderSearch = () => {
 
   return (
     <div>
-      <div className="search-container">
-        <input
-          value={searchTerm}
-          type="text"
-          placeholder="Search..."
-          onChange={(e) => setSearchTerm(e.target.value)}
-          className="search-input"
-        />
-        <button
-          type="submit"
-          onClick={handleSearch}
-          className="search-button"
-        >
-          Search
-        </button>
-      </div>
       <div className="featured-products">
         <h2>Featured Products</h2>
         <ul className="product-list">
