@@ -21,7 +21,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <HTop></HTop>
-        <HeaderSearch></HeaderSearch>
         {children}</body>
         <Footer></Footer>
     </html>

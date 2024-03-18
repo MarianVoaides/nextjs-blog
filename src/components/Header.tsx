@@ -7,11 +7,12 @@ const HTop = () => {
   return (
     <nav>
     <div className="logo">
-      <Link href="#">Your Logo</Link>
+      <Link href="#">PCbuildr</Link>
     </div>
     <ul className="nav-links">
       <li><Link href="/">Home</Link></li>
       <li><Link href="/contact">Contact</Link></li>
+      <li><Link href="/add-component">Add New Component</Link></li>
     </ul>
   </nav>
   )
